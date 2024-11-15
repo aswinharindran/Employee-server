@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Aswin Harindran",
+      "email": "aswinharindran11923914@gmail.com",
+      "status": "inactive"
+    }
+  ]
+}
